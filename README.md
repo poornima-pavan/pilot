@@ -20,3 +20,12 @@ push code from local repository to remote repository
 
 git remote -v
 information about remote repository
+
+git branch -b "branch name"
+to create new branch locally
+
+git fetch
+to fetch branches from remote
+
+git checkout "branchname"
+to switch to branch
